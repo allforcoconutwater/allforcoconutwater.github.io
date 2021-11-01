@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://allforcoconutwater.github.io/</link>
+        <description>Recent content on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 01 Nov 2021 21:24:57 +0800</lastBuildDate><atom:link href="https://allforcoconutwater.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>随便说点</title>
+        <link>https://allforcoconutwater.github.io/post/first.html</link>
+        <pubDate>Mon, 01 Nov 2021 21:24:57 +0800</pubDate>
+        
+        <guid>https://allforcoconutwater.github.io/post/first.html</guid>
+        <description>&lt;h2 id=&#34;反正也不知道哪天死&#34;&gt;反正也不知道哪天死&lt;/h2&gt;
+&lt;p&gt;先随便搞个， 可能懒得用微博了我都在这。这里我想说啥说啥，花20分钟搞的啥也没有还，等我空了再添东西。&lt;/p&gt;
+&lt;p&gt;王高飞我草你老爹。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
